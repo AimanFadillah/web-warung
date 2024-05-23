@@ -7,7 +7,7 @@
     const Barangs = ref(DataBarangs)
 
     function searchBarang (text){
-        Barangs.value = DataBarangs.filter((barang) => barang.nama.toLowerCase().includes(text));
+        Barangs.value = DataBarangs.filter((barang) => barang.nama.toLowerCase().includes(text.toLowerCase()));
     }
 
 </script>
