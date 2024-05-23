@@ -1,0 +1,35 @@
+.bg-primary {
+    background-color: #00649F !important;
+}
+
+.text-primary {
+    color :#00649F !important
+}
+
+.border-primary {
+    border-color: #00649F !important;
+}
+
+.btn-primary {
+    color: #00649F !important;
+}
+
+.form-control:focus{
+    box-shadow: none;
+    border-color: #495057;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.h-image-card {
+    height: 200px;
+    object-fit: cover;
+}
+
+@media (min-width:768px){
+    .h-image-card {
+        height: 260px;
+    }
+}
