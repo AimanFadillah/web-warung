@@ -16,9 +16,11 @@
     <Navbar />
     <div class="container mt-4">
         <div class="row">
-            <div class="col-md-12 mb-3 input-group">
-                <input @keyup="(e) => searchBarang(e.target.value)" type="text" placeholder="Cari Produk" autofocus class="form-control fs-3 border-end-0"  >
-                <button class="btn border rounded-end border-start-0 fs-3" ><i class="bi bi-search"></i></button>
+            <div class="col-md-12 mb-3 ">
+                <div class="input-group border rounded">
+                    <input @keyup="(e) => searchBarang(e.target.value)" type="text" placeholder="Cari Produk" autofocus class="form-control fs-3 border-0"  >
+                    <button class="btn border rounded-end border-0 fs-3" ><i class="bi bi-search"></i></button>
+                </div>
             </div>
             <div v-if="Barangs.length != 0" v-for="barang of Barangs" class="col-md-3 col-6">
                 <Card :barang="barang"  />
