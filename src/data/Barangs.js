@@ -1,5 +1,50 @@
 const data = [
     {
+        nama:"Racik",
+        src:"https://www.mentimun.co.id/images/store/LGBUMBU_RACIK_NASI_GORENG_20GR.jpg",
+        harga:1500
+    },
+    {
+        nama:"Frisian Flag",
+        src:"https://img.lazcdn.com/g/p/96e1891d6ea5bfad1bd24274802dff7c.jpg_960x960q80.jpg_.webp",
+        harga:1500
+    },
+    {
+        nama:"Creamy Latte",
+        src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI0rNFnraSXazqqKrVL2QTAECO3lwZ_nvUNaoP0eFHbg&s",
+        harga:1500
+    },
+    {
+        nama:"Kopi ABC Susu",
+        src:"https://smb-padiumkm-images-public-prod.oss-ap-southeast-5.aliyuncs.com/product/image/21022023/63f340103e2287252925341f/63f435d15394c2f7f89235b0/464eb2439742a151081ff7375c29b4.jpg",
+        harga:1500
+    },
+    {
+        nama:"Kopi Luwak",
+        src:"https://img.lazcdn.com/g/p/1d19fa6db22041d4c5b9ae5d029b6aec.jpg_720x720q80.jpg",
+        harga:1500
+    },
+    {
+        nama:"Good Day",
+        src:"https://images.tokopedia.net/img/cache/700/VqbcmM/2022/4/20/48511467-0454-499e-8952-bf790bcd2ee7.jpg",
+        harga:1500
+    },
+    {
+        nama:"Blue Band",
+        src:"https://cdn.istyle.im/images/product/web/85/32/56/00/0/000000563285_02_800.jpg.webp",
+        harga:2000
+    },
+    {
+        nama:"Susu Ultra 125 ml",
+        src:"https://www.k24klik.com/images/product/apotek_online_k24klik_2017072601565213_2536-Susu-ultra-stroberi-125ml.png",
+        harga:3500
+    },
+    {
+        nama:"Susu Ultra 200 ml",
+        src:"https://down-id.img.susercontent.com/file/0cca084e2bd544479e1332afa9a4ab76",
+        harga:7000
+    },
+    {
         nama:"Cham Safe Malam",
         src:"https://img.lazcdn.com/g/p/59ffdac6a2c0d06d0cad1be644c16840.png_720x720q80.png",
         harga:3000
@@ -112,7 +157,7 @@ const data = [
     },
     {
         nama:"Juara",
-        src:"https://image1ws.indotrading.com/s3/productimages/webp/co37129/p1290587/w425-h425/d5acfa8f-57c1-4dc4-873b-cda4705c2bc1.png",
+        src:"https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/102/MTA-105439934/no-brand_juara-teh-manis-kretek-12s_full01.jpg",
         harga:16000
     },
     {
