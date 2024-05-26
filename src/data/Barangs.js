@@ -1,5 +1,25 @@
 const data = [
     {
+        nama:"Tabung Gas",
+        src:"",
+        harga:23000
+    },
+    {
+        nama:"Galon",
+        src:"",
+        harga:6000
+    },
+    {
+        nama:"Levontea",
+        src:"",
+        harga:1000
+    },
+    {
+        nama:"Kapal Api",
+        src:"",
+        harga:1500
+    },
+    {
         nama:"Torabika Capuccino",
         src:"",
         harga:2000
