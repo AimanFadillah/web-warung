@@ -1,5 +1,20 @@
 const data = [
     {
+        nama:"Torabika Capuccino",
+        src:"",
+        harga:2000
+    },
+    {
+        nama:"Good Day Capuccino",
+        src:"",
+        harga:2000
+    },
+    {
+        nama:"Energen",
+        src:"",
+        harga:1500
+    },
+    {
         nama:"Racik",
         src:"https://www.mentimun.co.id/images/store/LGBUMBU_RACIK_NASI_GORENG_20GR.jpg",
         harga:1500
