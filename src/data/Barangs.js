@@ -1,38 +1,58 @@
 const data = [
     {
+        nama:"Le Mineral",
+        src:"https://drivethru.klikindomaret.com/tut7/wp-content/uploads/sites/28/2021/05/LE-MINERALEAIR-MINERAL-1500mL-BTL.jpg",
+        harga:3000
+    },
+    {
+        nama:"Teh Pucuk",
+        src:"https://images.tokopedia.net/img/cache/700/VqbcmM/2021/7/22/b51270f7-5e9c-4df5-a0c0-974f751e4373.jpg",
+        harga:4000
+    },
+    {
+        nama:"Milku",
+        src:"https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//86/MTA-31450062/milku_milku-uht-stroberi-200-ml-_full01.jpg",
+        harga:3500
+    },
+    {
+        nama:"Teh Kotak",
+        src:"https://down-id.img.susercontent.com/file/id-11134201-23030-7b7rzdolpfov9a",
+        harga:5000
+    },
+    {
         nama:"Tabung Gas",
-        src:"",
+        src:"https://id-test-11.slatic.net/p/084bbe7ae4f4e0822171d7bb18ab6d91.jpg",
         harga:23000
     },
     {
-        nama:"Galon",
-        src:"",
+        nama:"Isi Galon",
+        src:"https://filebroker-cdn.lazada.co.id/kf/S7ce3ba25ac26492bbe438dd4e11fbd90A.jpg",
         harga:6000
     },
     {
         nama:"Levontea",
-        src:"",
+        src:"https://butir-shope.com/public//uploads/product/bonus-levontea/gRBipyDgQYGoDY0Jkp0xwQnR2Zzc6AaxGaUMrVC4.png",
         harga:1000
     },
     {
         nama:"Kapal Api",
-        src:"",
+        src:"https://secangkirsemangat.id//storage/product-products/July2022/39oSfmv5K9b0N6gg64ot.jpg",
         harga:1500
     },
     {
         nama:"Torabika Capuccino",
-        src:"",
+        src:"https://id-test-11.slatic.net/p/e29889515d9b51a32166d5152a58ace6.jpg",
         harga:2000
     },
     {
         nama:"Good Day Capuccino",
-        src:"",
+        src:"https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//121/MTA-49669996/good-day_gooday-capucino_full01.jpg",
         harga:2000
     },
     {
         nama:"Energen",
-        src:"",
-        harga:1500
+        src:"https://down-id.img.susercontent.com/file/16527a534301d33bc3e321e69acdb198",
+        harga:2000
     },
     {
         nama:"Racik",
