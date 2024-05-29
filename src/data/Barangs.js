@@ -1,5 +1,60 @@
 const data = [
     {
+        nama:"Bon Cabe",
+        src:"https://id-test-11.slatic.net/p/de7b7b20ec557124ccb170fe35ff3569.jpg",
+        harga:1500
+    },
+    {
+        nama:"Malkist",
+        src:"https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/1/17/0f4f8c7b-147a-46fd-bcbb-8bc85a30f134.jpg",
+        harga:1000
+    },
+    {
+        nama:"So Kli Lantai",
+        src:"https://pos.tokomiring.id/uploads/img/1623147000_SFA.jpg",
+        harga:500
+    },
+    {
+        nama:"Rinso",
+        src:"https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//91/MTA-7514515/rinso_rinso_anti_noda_molto_deterjen_bubuk_-44_g-_6_sachet-_renteng-_full01_bndl96js.jpg",
+        harga:1000
+    },
+    {
+        nama:"Molto",
+        src:"https://img.ws.mms.shopee.co.id/sg-11134201-22110-w33vv2y5x0jvda",
+        harga:500
+    },
+    {
+        nama:"Downy",
+        src:"https://images.tokopedia.net/img/cache/700/VqbcmM/2023/1/10/2cbaf7de-9550-4e29-9b9f-bad6d021a61b.jpg",
+        harga:500
+    },
+    {
+        nama:"Taro",
+        src:"https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//93/MTA-61283172/taro_taro-chiki-taro-all-variant-65gr_full01.jpg",
+        harga:2000
+    },
+    {
+        nama:"Jetz",
+        src:"https://images.tokopedia.net/img/cache/700/VqbcmM/2022/12/13/a13413a0-3909-4a4d-be62-878ae914662b.jpg",
+        harga:2000
+    },
+    {
+        nama:"Chitato Lite",
+        src:"https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/9/12/5bf60be6-12f3-4cdb-962a-782445182a48.jpg",
+        harga:2000
+    },
+    {
+        nama:"Qtla",
+        src:"https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/MTA-68725639/qtela_qtela_singkong_snack_rasa_bbq_-185_g-_full02_f1nh0j4.jpeg",
+        harga:2000
+    },
+    {
+        nama:"Chiki Balls",
+        src:"https://images.tokopedia.net/img/cache/700/product-1/2020/2/13/35604504/35604504_105cab00-a047-41a9-beaa-a27e755b61f2_1100_1100",
+        harga:2000
+    },
+    {
         nama:"Le Mineral",
         src:"https://drivethru.klikindomaret.com/tut7/wp-content/uploads/sites/28/2021/05/LE-MINERALEAIR-MINERAL-1500mL-BTL.jpg",
         harga:3000
